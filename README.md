@@ -1,1 +1,3 @@
 # projeto_banco_de-_dados
+projetos e resolução de exercícios de banco de dados
+exemplo: exercícios de banco de dados com entidades, atributos,cardinalidades...
